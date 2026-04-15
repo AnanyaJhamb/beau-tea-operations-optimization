@@ -4,12 +4,12 @@ Business analytics project for a DC-based beverage startup, developing 4 optimiz
 
 ## Key Results
 
-| Area | Optimization |
-| Staffing Costs | **25% reduction** |
-| Marketing Allocation | **10% improvement** |
-| Machine Throughput | **30% increase** |
-| Scenarios Simulated | **1,000+** |
-| Queuing Simulations | **480** |
+Area | Optimization |
+Staffing Costs | **25% reduction** |
+Marketing Allocation | **10% improvement** |
+Machine Throughput | **30% increase** |
+Scenarios Simulated | **1,000+** |
+Queuing Simulations | **480** |
 
 ## Tech Stack
 - **Languages:** Python, R
